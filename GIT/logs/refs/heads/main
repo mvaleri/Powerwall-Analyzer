@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 f93ef548329779113994a0e97425546ef743b9e8 markvaleri <markvaleri@192.168.1.205> 1690546038 -0700	branch: Created from origin/main
-f93ef548329779113994a0e97425546ef743b9e8 d10fb878b5e1caebe605b314be9b634e6cb10ee4 markvaleri <markvaleri@192.168.1.205> 1690547040 -0700	merge origin/master: Fast-forward
-d10fb878b5e1caebe605b314be9b634e6cb10ee4 a492c3c87418bbbd1550a20c3fd3a6c0779e0588 markvaleri <markvaleri@192.168.1.205> 1690549704 -0700	commit: Merging Branches
-a492c3c87418bbbd1550a20c3fd3a6c0779e0588 6452cbd09fc1f8df789e4c7291cf36841a580ccf markvaleri <mvaleri1@cox.net> 1691418459 -0700	commit: added more data calculations fields after reading csv file.

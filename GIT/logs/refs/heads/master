@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 066a2385a2f98b2473ee2a0091ee9cedcff1aeea markvaleri <markvaleri@192.168.1.205> 1690240102 -0700	commit (initial): initial repository creation. Code is still a work o9ng progress.  Not working yet. 
-066a2385a2f98b2473ee2a0091ee9cedcff1aeea dd12c5e8b28be676d5c589f79d65165266dbe36d markvaleri <markvaleri@192.168.1.205> 1690346262 -0700	commit: add lubraries to repro by creating lib folder in prohect properties fixed some syntax errors
-dd12c5e8b28be676d5c589f79d65165266dbe36d d10fb878b5e1caebe605b314be9b634e6cb10ee4 markvaleri <markvaleri@192.168.1.205> 1690543303 -0700	merge origin/main: Merge made by recursive.
-d10fb878b5e1caebe605b314be9b634e6cb10ee4 b6659dc97b43feef7355fe95b437290329329b6b markvaleri <mvaleri1@cox.net> 1691513634 -0700	commit: added more data calculations fields after reading csv file.
